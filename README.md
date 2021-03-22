@@ -1,8 +1,9 @@
 # Arthur Hauenstein
 Software Engineer and Fullstack Developer.
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="arthur-hauenstein-646558131"><a class="LI-simple-link" href='https://br.linkedin.com/in/arthur-hauenstein-646558131?trk=profile-badge'>Arthur Hauenstein</a></div>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a class="LI-simple-link" href='https://br.linkedin.com/in/arthur-hauenstein-646558131?trk=profile-badge'>Arthur Hauenstein</a
+</img>
 
 :stars: Enthusiast of the web & mobile development.
 
