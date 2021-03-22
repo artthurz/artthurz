@@ -8,6 +8,6 @@ Software Engineer and Fullstack Developer.
   
 :stars: Enthusiast of the web & mobile development.
 
-Passionate about the whole Javascript ecosystem. Currently working as a junior programmer at <a href="https://www.bimachine.com.br//">BIMachine</a>.
+Passionate about the whole Javascript ecosystem. Currently working as a junior programmer at <a href="https://www.bimachine.com.br/">BIMachine</a>.
 
 I'm currently learning as much as i can about React to improve my code.
