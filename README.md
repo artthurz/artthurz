@@ -6,7 +6,7 @@ Software Engineer and Fullstack Developer.
 </a>
   
   
-:stars: Enthusiast of the web & mobile development.
+:stars: Enthusiast of the web, mobile and api development.
 
 Passionate about the whole Javascript ecosystem. Currently working as a junior programmer at <a href="https://www.bimachine.com.br/">BIMachine</a>.
 
