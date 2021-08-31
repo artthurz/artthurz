@@ -8,6 +8,6 @@ Software Engineer
   
 :stars: Enthusiast of the web, mobile and api development.
 
-Passionate about the whole Javascript ecosystem. Currently working as a junior programmer at <a href="https://www.bimachine.com.br/">BIMachine</a>.
+Passionate about the whole Javascript ecosystem. Currently working as Frontend Engineer at <a href="https://www.crefisa.com.br/">Crefisa Bank</a>.
 
 I'm currently learning as much as i can about React to improve my code.
