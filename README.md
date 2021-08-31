@@ -47,5 +47,5 @@ I consider myself enthusiastic about new technologies and passionate about the J
 
 **Follow me on my social media:**
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/arthur.hauenstein/)](https://www.instagram.com/arthur.hauenstein/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-hauenstein-646558131/)](https://www.linkedin.com/in/arthur-hauenstein-646558131/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/arthur.hauenstein/)](https://www.instagram.com/arthur.hauenstein/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-hauenstein-646558131/)](https://www.linkedin.com/in/arthur-hauenstein-646558131/) 
