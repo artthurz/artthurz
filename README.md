@@ -1,15 +1,16 @@
 ### Hey there 👋
 
-**I'm Arthur Hauenstein 👨‍🚀**. Currently I'm a Frontend Engineer at Crefisa Bank.
+**I'm Arthur Hauenstein 👨‍🚀**. 
+Currently I'm a Frontend Engineer at Crefisa Bank.
 I also have experience with backend development.
 
-Currently my stack is: 
+At the moment my stack is: 
 
 :iphone: Mobile applications for Android and iOS with **React Native** <br/> 
 :computer: Web front-end development with **ReactJs** <br/>
 :satellite: API with **NodeJs** <br/>
 
-But, I also used it in projects: 
+I also used in projects: 
 
 <p>
 <img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
