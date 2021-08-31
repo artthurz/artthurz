@@ -1,7 +1,7 @@
 ### Hey there 👋
 
-**I'm Arthur Hauenstein 👨‍🚀**. 
-Currently I'm a Frontend Engineer at Crefisa Bank.
+**I'm Arthur Hauenstein 👨‍🚀**. <br/>
+Currently I'm a Frontend Engineer at Crefisa Bank. <br/> 
 I also have experience with backend development.
 
 At the moment my stack is: 
